@@ -3,5 +3,5 @@ Repositories:
 - [Code](https://github.com/BreX900/mek)
 
 Websites:
-- [User App](https://doof.app)
-- [Admin App](https://console.doof.app)
+- [Doof User App](https://doof.app)
+- [Doof Admin App](https://console.doof.app)
